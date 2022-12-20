@@ -1,6 +1,6 @@
 name := "sbt-multi-project-example"
 organization in ThisBuild := "com.pbassiner"
-scalaVersion in ThisBuild := "2.12.3"
+scalaVersion in ThisBuild := "2.12.15"
 
 // PROJECTS
 
